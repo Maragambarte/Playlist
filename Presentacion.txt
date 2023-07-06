@@ -1,0 +1,24 @@
+Tematica:
+PlayList 
+
+Tecnologias:
+Python
+Biblioteca Rich se utiliza para mejorar la salida de texto en la línea de comandos. 
+Proporciona herramientas para agregar formatos de texto enriquecido, colores, estilos, tablas y más.
+
+La biblioteca "sys" proporciona funciones y variables que permite acceder a argumentos de línea de comandos, 
+interactuar con el sistema operativo, obtener información sobre el entorno de ejecución, entre otras cosas.
+
+La biblioteca "json" proporciona herramientas para trabajar con datos en formato JSON . Permite la serialización y 
+deserialización de datos estructurados, lo que facilita el intercambio de información entre diferentes sistemas.
+
+Descripcion :
+
+Genere un  programa donde se puede gestionar un lista predeterminada de música, 
+En el menú principal podes:
+Ingresar a la playlist para modificarla
+Obtener reporte por Idioma y ver la Lista completa. 
+Desde el menu para gestionar la PlayList se puede agregar una nueva canción, modificarla una cancion ya ingresada o Incluso
+Eliminar cualquier cancion que exista en la lista
+
+
